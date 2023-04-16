@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Blue Topaz",
+  "theme": "moonstone",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "supercharged-links-gen"
+  ],
+  "interfaceFontFamily": "Calibri",
+  "textFontFamily": "Calibri",
+  "baseFontSize": 17
+}
