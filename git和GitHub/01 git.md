@@ -180,17 +180,11 @@ git switch -c <branch name> 创建并切换分支
 
 
 ### 变基（rebase）
-
-
    在开发中除了通过 merge 来合并分支外，还可以通过变基来完成分支的合并。
-
+   
    我们通过 merge 合并分支时，在提交记录中会将所有的分支创建和分支合并的过程全部都显示出来，这样当项目比较复杂，开发过程比较波折时，我必须要反复的创建、合并、删除分支。这样一来将会使得我们代码的提交记录变得极为混乱。
 
-
    原理（变基时发生了什么）：
-
-  
-
    1. 当我们发起变基时，git 会首先找到两条分支的最近的共同祖先
 
    2. 对比当前分支相对于祖先的历史提交，并且将它们提取出来存储到一个临时文件中
@@ -199,32 +193,19 @@ git switch -c <branch name> 创建并切换分支
 
    4. 以当前基底开始，重新执行历史操作
 
-  
-
    变基和 merge 对于合并分支来说最终的结果是一样的！但是变基会使得代码的提交记录更整洁更清晰！注意！大部分情况下合并和变基是可以互换的，但是如果分支已经提交给了远程仓库，那么这时尽量不要变基。
 
-  
-
    ### 远程仓库（remote）
-
-  
-
    目前我对于 git 所有操作都是在本地进行的。在开发中显然不能这样的，这时我们就需要一个远程的 git 仓库。远程的 git 仓库和本地的本质没有什么区别，不同点在于远程的仓库可以被多人同时访问使用，方便我们协同开发。在实际工作中，git 的服务器通常由公司搭建内部使用或是购买一些公共的私有 git 服务器。我们学习阶段，直接使用一些开放的公共 git 仓库。目前我们常用的库有两个：GitHub 和 Gitee（码云）
    将本地库上传 git：
-
 ```bash
-
     git remote add origin https://github.com/lilichao/git-demo.git
 
     # git remote add <remote name> <url>
 
-  
-
     git branch -M main
 
     # 修改分支的名字的为main
-
-  
 
     git push -u origin main
 
@@ -235,18 +216,13 @@ git switch -c <branch name> 创建并切换分支
    将本地库上传 gitee：
 
    ```bash
-
     git remote add gitee https://gitee.com/ymhold/vue-course.git
-
     git push -u gitee main
-
     ```
 
    ### 远程库的操作的命令
 
-
    ```bash
-
     git remote # 列出当前的关联的远程库
 
     git remote add <远程库名> <url> # 关联远程仓库
@@ -259,20 +235,13 @@ git switch -c <branch name> 创建并切换分支
 
     git clone <url> # 从远程库下载代码
 
-  
-
     git push # 如果本地的版本低于远程库，push默认是推不上去
 
     git fetch # 要想推送成功，必须先确保本地库和远程库的版本一致，fetch它会从远程仓库下载所有代码，但是它不会将代码和当前分支自动合并
-
              # 使用fetch拉取代码后，必须要手动对代码进行合并
-
     git pull  # 从服务器上拉取代码并自动合并
 
-  
-
     ```
-
 
    注意：推送代码之前，一定要先从远程库中拉取最新的代码
 
