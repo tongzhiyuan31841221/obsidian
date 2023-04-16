@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git和GitHub/01 git.md",
+                "file": "mysql/权限管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git和GitHub/01 git.md",
+                "file": "mysql/权限管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git和GitHub/01 git.md",
+                "file": "mysql/权限管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git和GitHub/01 git.md"
+                "file": "mysql/权限管理.md"
               }
             }
           },
@@ -165,9 +165,10 @@
   },
   "active": "74b756bac8fd66a4",
   "lastOpenFiles": [
+    "mysql/第03章_基本的SELECT语句.md",
+    "git和GitHub/01 git.md",
     "未命名.canvas.baiduyun.uploading.cfg",
     "未命名.canvas",
-    "git和GitHub/01 git.md",
     "mysql/未命名 1.md",
     "测试obsidian的git.md",
     "mysql/第13章_约束.md",
