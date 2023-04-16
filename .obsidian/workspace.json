@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d94a7681489d9cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git和GitHub/01 git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,8 +163,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9d94a7681489d9cb",
+  "active": "74b756bac8fd66a4",
   "lastOpenFiles": [
+    "未命名.canvas.baiduyun.uploading.cfg",
+    "未命名.canvas",
+    "git和GitHub/01 git.md",
     "mysql/未命名 1.md",
     "测试obsidian的git.md",
     "mysql/第13章_约束.md",
@@ -186,7 +176,6 @@
     "git和GitHub/01 git.md.baiduyun.uploading.cfg",
     "git和GitHub/images/Pasted image 20230415214240.png",
     "git和GitHub/images/Pasted image 20230415214210.png",
-    "git和GitHub/01 git.md",
     "Pasted image 20230415214240.png.baiduyun.uploading.cfg",
     "Pasted image 20230415214210.png.baiduyun.uploading.cfg",
     "axios/尚硅谷_axios从入门到源码分析 1.pdf",
@@ -195,13 +184,11 @@
     "axios/axios与Axios的关系.md.baiduyun.uploading.cfg",
     "git和GitHub/images/1.png",
     "git和GitHub/images",
-    "未命名.canvas",
     "git和GitHub/images/2.png",
     "mysql/权限管理.md",
     "mysql/第10章_创建和管理表.md",
     "mysql/第09章_子查询.md",
     "mysql/第08章_聚合函数.md",
-    "mysql/第06章_多表查询.pdf",
     "mysql/第06章_多表查询.md",
     "mysql/第05章_排序与分页.md",
     "mysql/第04章_运算符.md",
