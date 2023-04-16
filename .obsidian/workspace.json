@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysql/未命名 1.md",
+                "file": "git和GitHub/01 git.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysql/未命名 1.md",
+                "file": "git和GitHub/01 git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mysql/未命名 1.md",
+                "file": "git和GitHub/01 git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql/未命名 1.md"
+                "file": "git和GitHub/01 git.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "9d94a7681489d9cb",
   "lastOpenFiles": [
-    "测试obsidian的git.md",
     "mysql/未命名 1.md",
+    "测试obsidian的git.md",
     "mysql/第13章_约束.md",
     "测试obsidian的git.md.baiduyun.uploading.cfg",
     "未命名 1.md.baiduyun.uploading.cfg",
