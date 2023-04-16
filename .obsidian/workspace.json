@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试obsidian的git.md",
+                "file": "mysql/未命名 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试obsidian的git.md",
+                "file": "mysql/未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "测试obsidian的git.md",
+                "file": "mysql/未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试obsidian的git.md"
+                "file": "mysql/未命名 1.md"
               }
             }
           },
@@ -178,24 +178,25 @@
   },
   "active": "9d94a7681489d9cb",
   "lastOpenFiles": [
-    "git和GitHub/01 git.md",
     "测试obsidian的git.md",
+    "mysql/未命名 1.md",
+    "mysql/第13章_约束.md",
+    "测试obsidian的git.md.baiduyun.uploading.cfg",
+    "未命名 1.md.baiduyun.uploading.cfg",
     "git和GitHub/01 git.md.baiduyun.uploading.cfg",
+    "git和GitHub/images/Pasted image 20230415214240.png",
+    "git和GitHub/images/Pasted image 20230415214210.png",
+    "git和GitHub/01 git.md",
     "Pasted image 20230415214240.png.baiduyun.uploading.cfg",
-    "Pasted image 20230415214240.png",
     "Pasted image 20230415214210.png.baiduyun.uploading.cfg",
-    "Pasted image 20230415214210.png",
     "axios/尚硅谷_axios从入门到源码分析 1.pdf",
     "gid布局/未命名 1.md",
     "axios/尚硅谷_axios从入门到源码分析 1.pdf.baiduyun.uploading.cfg",
     "axios/axios与Axios的关系.md.baiduyun.uploading.cfg",
     "git和GitHub/images/1.png",
-    "未命名 1.md",
     "git和GitHub/images",
-    "未命名 1.md.baiduyun.uploading.cfg",
     "未命名.canvas",
     "git和GitHub/images/2.png",
-    "mysql/第13章_约束.md",
     "mysql/权限管理.md",
     "mysql/第10章_创建和管理表.md",
     "mysql/第09章_子查询.md",
@@ -205,7 +206,6 @@
     "mysql/第05章_排序与分页.md",
     "mysql/第04章_运算符.md",
     "尚品汇总结/复刻.md",
-    "未命名.canvas.baiduyun.uploading.cfg",
     "尚品汇总结/项目细节.md",
     "vue2_vue-CLI/v-model 深入.md",
     "vue2_vue-CLI/编程式路由导航.md",
@@ -218,7 +218,6 @@
     "node.js不用太深/静态资源与查询字符串.md",
     "node.js不用太深/包管理器.md",
     "node.js不用太深/http模块.md",
-    "axios/http相关.md",
     "Pasted image 20230220130556.png",
     "尚品汇总结/Err_images/Pasted image 20230221141021.png",
     "axios/images/QQ截图20230220110132.png"
