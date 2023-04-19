@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git和GitHub/01 git.md",
+                "file": "mysql/未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e41c7bcf042b582e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mysql/第15章_存储过程与存储函数.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git和GitHub/01 git.md",
+                "file": "mysql/第15章_存储过程与存储函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git和GitHub/01 git.md",
+                "file": "mysql/第15章_存储过程与存储函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git和GitHub/01 git.md"
+                "file": "mysql/第15章_存储过程与存储函数.md"
               }
             }
           },
@@ -163,15 +176,16 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "74b756bac8fd66a4",
+  "active": "e41c7bcf042b582e",
   "lastOpenFiles": [
+    "mysql/未命名 1.md",
+    "mysql/第15章_存储过程与存储函数.md",
+    "git和GitHub/01 git.md",
     "mysql/第13章_约束.md",
     "mysql/权限管理.md",
     "mysql/第03章_基本的SELECT语句.md",
-    "git和GitHub/01 git.md",
     "未命名.canvas.baiduyun.uploading.cfg",
     "未命名.canvas",
-    "mysql/未命名 1.md",
     "测试obsidian的git.md",
     "测试obsidian的git.md.baiduyun.uploading.cfg",
     "未命名 1.md.baiduyun.uploading.cfg",
@@ -205,7 +219,6 @@
     "node.js不用太深/模块化.md",
     "node.js不用太深/静态资源与查询字符串.md",
     "node.js不用太深/包管理器.md",
-    "node.js不用太深/http模块.md",
     "Pasted image 20230220130556.png",
     "尚品汇总结/Err_images/Pasted image 20230221141021.png",
     "axios/images/QQ截图20230220110132.png"
